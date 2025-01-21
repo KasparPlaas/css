@@ -19,9 +19,9 @@ body {
 .taust {
     height: 350px;
     background-image: url('pildid/taust.jpg');
-    background-size: cover; /* Ensures the image covers the full width */
-    background-position: center center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents repeating */
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
     color: #fff;
     text-align: center;
     display: flex;
@@ -86,25 +86,26 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    padding: 40px;
     height: 400px;
+    padding: 40px;
     flex-grow: 1;
     margin-bottom: 60px;
 }
 
 .tekst {
-    max-width: 500px;
+    max-width: 550px;
+    margin-bottom: 100px;
 }
 
 .tekst h2 {
     font-size: 36px;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .tekst p {
     font-size: 15px;
     line-height: 1.5;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .bold {
@@ -124,6 +125,6 @@ body {
     color: #fff;
     text-align: center;
     opacity: 0.64;
-    padding: 64px 0;
+    padding: 40px 0;
     font-size: 24px;
 }

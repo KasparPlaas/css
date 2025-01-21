@@ -1,0 +1,59 @@
+/* Ülemaailmne */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", serif;
+}
+
+
+/* Container */
+
+
+/* Menüü */
+.menuu{
+    background-color: #000;
+    height: 50px;
+    padding: 12px 24px;
+}
+
+.menuu a{
+    color: #fff;
+    text-decoration: none; 
+}
+
+.menuu ul{
+    list-style-type: none;
+    line-height: 50px;
+}
+
+.menuu ul li{
+    display: block;
+    float: left;
+    padding: 0 40px;
+}
+/* Banner */
+
+.banner{
+    background-image: url(taust.png);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+
+
+/* Footer */
+
+.jalus{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}

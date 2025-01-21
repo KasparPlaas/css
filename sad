@@ -1,0 +1,26 @@
+
+Loo HTML leht ja vorminda CSS's
+
+Pilt tekstis: https://picsum.photos/
+Taustapilt: https://coolbackgrounds.io/
+Tekst: https://www.lipsum.com/
+
+Meno
+	KĆµrgus: 50px
+	Font: Montserrat, must, 18px
+	Padding: 12px 24px
+
+Banner
+	Konteineri kĆµrgus 265px
+	Tekst keskel, Montserrat, valged, suurused 64px ja 24px
+	Nupp must, tekst 18, vahed 12px 24px
+content
+	Konteineri kĆµrgus 400px
+	Pealkiri: Montserrat 36px
+	Tekst: Montserrat 18px ja 15px, reasamm 1.5, vahed tunde jĆ¤rgi, Ć¼lemine tekst rasvaselt
+	Pilt: 300x400px, tĆ¼hi alaĆ¼mber pildi 20px, joondatud paremale
+	
+footer
+	VĆ¤rv: must, lĆ¤bipaisvusega 64%
+	Tekst: keskel 24px
+	TĆ¼hi ala Ć¼mber: 64px
